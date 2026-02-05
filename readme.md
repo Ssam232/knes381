@@ -4,5 +4,5 @@ This is a Git for KNES 381
 * point one 
 * point two 
 * point three
- - sub-point
-  - sub-sub point
+  - sub-point
+      - sub-sub point
