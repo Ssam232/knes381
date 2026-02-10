@@ -13,7 +13,11 @@
       </tr>
       <tr>
         <td><h2 id="section1"> 
-        <a href="readme.md"> Readme</td>
+        <a href="readme.md"> Readme
+        <h2 id="section2"> 
+        <a href="testfile.md"> Testfile
+        <h2 id="section3"> 
+        <a href="testfile"> Testfile</td>
       </tr>
   </body>
 </html>
