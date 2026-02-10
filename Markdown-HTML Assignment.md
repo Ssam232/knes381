@@ -12,12 +12,20 @@
         <td><a href="https://github.com/Ssam232/knes381/blob/master/readme.md"> This is a link to my Readme</td>
       </tr>
       <tr>
-        <td><h2 id="section1"> 
+        <td> <h3>Table of Contents</h4>
+          <p id="section1"> 
         <a href="readme.md"> Readme
-        <h2 id="section2"> 
+        <p id="section2"> 
         <a href="testfile.md"> Testfile
-        <h2 id="section3"> 
-        <a href="testfile"> Testfile</td>
+        <p id="section3"> 
+        <a href="testfile"> Testfile
+        <p id="section4"> 
+        <a href="UC Logo.jpg"> University of Calgary Logo I used </td>
+        <td>
+          $\color{red}{\text{Red text}}$
+          <p><b><i>Emphasized Text</i></b></p>
+          <h2>$\dot{V}O_2$ </h2><p>VO<sub>2</sub>symbol with the dot</p>
+        </td>
       </tr>
   </body>
 </html>
