@@ -24,7 +24,8 @@
         <td>
           $\color{red}{\text{Red text}}$
           <p><b><i>Emphasized Text</i></b></p>
-          <h2>$\dot{V}O_2$ </h2><p>VO<sub>2</sub>symbol with the dot</p>
+          <h2>$\dot{V}O_2$ </h2><p>VO<sub>2</sub>symbol with the dot
+          <h2>$\dot{X}$ </h2><p> This is an X symbol</p>
         </td>
       </tr>
   </body>
