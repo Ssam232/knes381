@@ -22,7 +22,8 @@
         <p id="section4"> 
         <a href="UC Logo.jpg"> University of Calgary Logo I used </td>
         <td>
-          $\color{red}{\text{Red text}}$
+          $\color{red}{\text{This is Red text}}$
+          $\color{green}{\text{This is Green text }}$
           <p><b><i>Emphasized Text</i></b></p>
           <h2>$\dot{V}O_2$ </h2><p>VO<sub>2</sub>symbol with the dot
           <h2>$\dot{X}$ </h2><p> This is an X symbol</p>
