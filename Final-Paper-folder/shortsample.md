@@ -1,6 +1,4 @@
-# Title 
-Machine Learning as a Future Direction for Data Analysis in
-Myofilament Biomechanics
+# Machine Learning as a Future Direction for Data Analysis in Myofilament Biomechanics
 
 ## Introduction
 
